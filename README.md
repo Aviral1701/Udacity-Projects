@@ -1,4 +1,4 @@
-# Udacity-Projects
+# Practice-Projects
 
 ###Android App Development
 
